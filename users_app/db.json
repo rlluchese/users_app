@@ -1,5 +1,26 @@
 {
-    "users": [],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Sheri Bartell",
+      "id": 2
+    },
+    {
+      "name": "Sandra Legros",
+      "id": 3
+    },
+    {
+      "name": "Clint Mills",
+      "id": 4
+    },
+    {
+      "name": "Josephine Rolfson",
+      "id": 5
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
