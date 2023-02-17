@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
       "name": "Sheri Bartell",
       "id": 2
     },
@@ -33,6 +29,93 @@
       "id": 11
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Incredible Frozen Pizza",
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "title": "Bespoke Cotton Keyboard",
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "title": "Incredible Wooden Shirt",
+      "id": 6
+    },
+    {
+      "userId": 5,
+      "title": "Rustic Metal Computer",
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "title": "Fantastic Bronze Bacon",
+      "id": 12
+    },
+    {
+      "userId": 5,
+      "title": "Elegant Bronze Sausages",
+      "id": 13
+    },
+    {
+      "userId": 5,
+      "title": "Practical Metal Bacon",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Handmade Bronze Fish",
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "title": "Luxurious Concrete Soap",
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "title": "Incredible Metal Soap",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8869",
+      "id": 3
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=69792",
+      "id": 5
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=60551",
+      "id": 6
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39434",
+      "id": 7
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=76983",
+      "id": 8
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=73308",
+      "id": 10
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7024",
+      "id": 11
+    }
+  ]
 }
